@@ -3,3 +3,8 @@
 Test nano editor
 Test vim editor
 Testing string. Writing changes to README.md
+
+Use following command to run ruby script
+```
+  $ ruby hello.rb
+```
